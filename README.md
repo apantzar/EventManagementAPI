@@ -3,7 +3,7 @@
 
 ## Overview
 
-The **Event Management API** is a RESTful service built using .NET Core 8 that allows users to create and manage events, register for events, and track event statistics. The API demonstrates best practices like many-to-many relationships, API documentation with Swagger, and background task processing with Hangfire.
+The **Event Management API** is a RESTful service built using .NET Core 8 that allows users to create and manage events. The API demonstrates best practices like many-to-many relationships, API documentation with Swagger.
 
 ## Features
 
